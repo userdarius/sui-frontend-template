@@ -31,5 +31,6 @@
     "prettier": "^3.0.0",
     "typescript": "^5.3.3",
     "vite": "^4.4.4"
-  }
+  },
+  "packageManager": "pnpm@7.9.5+sha1.8d28e3270689e2afd345777fec9d9535f427b532"
 }
